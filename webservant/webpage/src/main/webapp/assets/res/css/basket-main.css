@@ -27,9 +27,22 @@
 
 .game-info {
   border:1px solid lightgrey;
+  text-align:center;
 }
 
 .team {
   background-color:lightgreen;
+  text-align:center;
+}
+
+.vs-label{
+  text-align: center;
+}
+.referee {
+  text-align:center;
+}
+
+.text-align-center {
+  text-align: center;
 }
 
