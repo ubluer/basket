@@ -16,7 +16,7 @@
       </ul>
       <ul id="navbar-module-status" class="nav navbar-nav navbar-right">
         <li><a href="${ctx}/cover/index.do">Cover</a></li>
-        <li><a href="${ctx}/basket/index.do">Basket</a></li>
+        <li><a href="${ctx}/basket/team-index.do">Basket</a></li>
         <li><a href="${ctx}/system/index.do">System</a></li>
       </ul>
     </nav>

@@ -74,7 +74,7 @@
     </filter>
     <filter-mapping>
         <filter-name>shiroFilter</filter-name>
-        <url-pattern>/*</url-pattern>
+        <url-pattern>/system</url-pattern>
     </filter-mapping>
     <!--index-->
     <welcome-file-list>

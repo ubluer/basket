@@ -10,4 +10,9 @@ public class BasketController {
 	public String index() {
 		return "basket/basket-index";
 	}
+
+	@RequestMapping({"team-index"})
+	public String goTeamIndex(){
+		return "basket/team-index";
+	}
 }

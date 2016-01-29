@@ -23,11 +23,11 @@
               <property name="filterChainDefinitions">
                      <value>
                          /basket/** = anon
+                         /cover/** = anon
                        /login.do = authc
                        /logout.do = logout
                        /assets/** = anon
                        /userfiles/** = anon
-                       /cover/** = anon
                        /user/** = anon
                        /** = user
                      </value>

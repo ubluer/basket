@@ -33,25 +33,25 @@
 		<div class="schedule">
 			<div class="container-fluid game-entry border-light">
 				<div class="row">
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<div class="game-time border-light">
 							<span class="start">8:00</span>-
 							<span class="end">10:00</span>
 						</div>
 						<div class="venue-status border-light">包场</div>
 					</div>
-					<div class="col-md-10">
+					<div class="col-md-9">
 						<div class="game-info border-light">
 							<div class="container-fluid">
 								<div class="row">
-									<div class="col-md-4">
+									<div class="col-xs-5">
 										<div class="border-light team left team-left">约战</div>
 									</div>
-									<div class="col-md-4">
+									<div class="col-xs-2">
 										<div class="vs-label">VS</div>
 										<div class="referee border-light">裁判员</div>
 									</div>
-									<div class="col-md-4">
+									<div class="col-xs-5">
 										<div class="border-light team right team-right">约战</div>
 									</div>
 								</div>
@@ -61,6 +61,7 @@
 				</div>
 			</div>
 		</div>
+
 	</main>
 </div>
 <script>
