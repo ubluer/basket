@@ -47,7 +47,8 @@
 }
 
 .wrapper {
-  overflow:hidden;
+	font-size:18px;
+	overflow:hidden;
 }
 
 .page-title {
@@ -67,3 +68,11 @@
 	padding:5px;
 }
 
+.search-box .header {
+	font-size:22px;
+	color:peru;
+}
+
+.search-box .label {
+	color: black;
+}
