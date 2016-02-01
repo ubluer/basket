@@ -76,3 +76,17 @@
 .search-box .label {
 	color: black;
 }
+.battle-list>ul{
+    padding:0;
+}
+.battle {
+    list-style: none;
+}
+.battle .avatar {
+    width:44px;
+    height:44px;
+}
+.battle .avatar>img{
+    width:44px;
+    height:44px;
+}
